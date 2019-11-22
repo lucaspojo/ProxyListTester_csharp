@@ -1,0 +1,12 @@
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\bin\Release\ProxyListTester.exe.config
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\bin\Release\ProxyListTester.exe
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\bin\Release\ProxyListTester.pdb
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.csprojAssemblyReference.cache
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.MainForm.resources
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.Form2.resources
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.Form3.resources
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.Properties.Resources.resources
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.csproj.GenerateResource.cache
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.csproj.CoreCompileInputs.cache
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.exe
+C:\Users\33767\source\repos\ProxyListTester\ProxyListTester\obj\Release\ProxyListTester.pdb
